@@ -1,0 +1,31 @@
+Devops
+SDLC 
+VM(virtual machines)
+LINUX 
+PYTHON OR SHELL SCRIPTING 
+GIT and GIT HUB
+CI & CD tool : JENKINS 
+configuration management : ANSIBLE 
+Build tools : MAVEN
+Containers : docker, Kubernetes
+Infer setup : terraform 
+monitoring : prometheus
+
+AWS :
+AWS Identity and Access Management (IAM)
+
+Amazon Simple Storage Service (S3)
+Amazon Elastic Compute Cloud (EC2)
+Amazon Virtual Private Cloud (VPC)
+
+AWS Lambda
+
+Amazon Elastic Kubernetes Service (EKS)
+
+AWS CodePipeline
+
+AWS CodeBuild
+
+Amazon CloudWatch
+
+AWS CloudFormation
